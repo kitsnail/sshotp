@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/liamg/sshotp/app"
+	"github.com/kitsnail/sshotp/app"
 	"github.com/spf13/cobra"
 )
 
