@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kr/pty"
+	"github.com/creack/pty"
 	"github.com/riywo/loginshell"
 	"golang.org/x/crypto/ssh/terminal"
 )
